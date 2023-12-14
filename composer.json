@@ -1,0 +1,16 @@
+{
+    "name": "devleonardotissi/buscador-cursos",
+    "description": "Projeto para buscar cursos no site da Alura",
+    "type": "library",
+    "authors": [
+        {
+            "name": "leonardo",
+            "email": "leonardo.tissi.si@gmail.com"
+        }
+    ],
+    "require": {
+        "guzzlehttp/guzzle": "^7.8",
+        "symfony/dom-crawler": "^7.0",
+        "symfony/css-selector": "^7.0"
+    }
+}

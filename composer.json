@@ -40,4 +40,5 @@
     "scripts-descriptions": {
         "test-PSR12": "Teste para verificar identação de código no arquivos contidos na pasta 'src'"
     }
+
 }

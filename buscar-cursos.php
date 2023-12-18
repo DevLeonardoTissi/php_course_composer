@@ -1,7 +1,7 @@
 <?php
 
 require 'vendor/autoload.php';
-require 'src/Buscador.php';
+
 
 use GuzzleHttp\Client;
 use Leonardo\BuscadorDeCursos\Buscador;

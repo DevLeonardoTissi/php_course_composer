@@ -31,6 +31,10 @@ class ComposerStaticInit15ba962259bfdf8af3e31b6abd1f0a41
         array (
             'Masterminds\\' => 12,
         ),
+        'L' => 
+        array (
+            'Leonardo\\BuscadorDeCursos\\' => 26,
+        ),
         'G' => 
         array (
             'GuzzleHttp\\Psr7\\' => 16,
@@ -68,6 +72,10 @@ class ComposerStaticInit15ba962259bfdf8af3e31b6abd1f0a41
         'Masterminds\\' => 
         array (
             0 => __DIR__ . '/..' . '/masterminds/html5/src',
+        ),
+        'Leonardo\\BuscadorDeCursos\\' => 
+        array (
+            0 => __DIR__ . '/../..' . '/src',
         ),
         'GuzzleHttp\\Psr7\\' => 
         array (

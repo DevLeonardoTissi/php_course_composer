@@ -5,9 +5,9 @@ namespace Leonardo\BuscadorDeCursos;
 use GuzzleHttp\ClientInterface;
 use Symfony\Component\DomCrawler\Crawler;
 
-class Buscador
+readonly class Buscador
 {
-    public function __construct(private readonly ClientInterface $httpClient, private readonly Crawler $crawler)
+    public function __construct(private ClientInterface $httpClient, private Crawler $crawler)
     {
 
     }

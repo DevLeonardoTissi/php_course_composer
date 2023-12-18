@@ -7,6 +7,10 @@ use GuzzleHttp\Client;
 use Leonardo\BuscadorDeCursos\Buscador;
 use Symfony\Component\DomCrawler\Crawler;
 
+
+Teste::teste();
+
+
 $client = new Client(['verify' => false, 'base_uri' => 'https://www.alura.com.br/']);
 $crawler = new Crawler();
 

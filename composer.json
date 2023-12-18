@@ -15,6 +15,9 @@
     },
 
     "autoload": {
+        "classmap": [
+            "./Teste.php"
+        ],
         "psr-4": {
             "Leonardo\\BuscadorDeCursos\\": "src/"
         }

@@ -20,6 +20,10 @@
         ],
         "psr-4": {
             "Leonardo\\BuscadorDeCursos\\": "src/"
-        }
+        },
+
+        "files": [
+            "./functions.php"
+        ]
     }
 }
